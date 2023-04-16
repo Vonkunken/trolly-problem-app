@@ -10,13 +10,30 @@ export default function App() {
     }
     const [trollyArray, setTrollyArray] = useState(
         [
-            { 'name': 'a person', 'count': 0, id: 0},
+            { 'name': 'A person', 'count': 0, id: 0},
             { 'name': '5 people', 'count': 0, id: 1},
             { 'name': '10 people', 'count': 0, id: 2},
-            { 'name': 'a bag of puppies', 'count': 0, id: 3},
-            { 'name': 'a bag of kittens', 'count': 0, id: 4},
-            { 'name': 'a cow', 'count': 0, id: 5},
-            { 'name': 'a trolley', 'count': 0, id: 6},
+            { 'name': 'A bag of puppies', 'count': 0, id: 3},
+            { 'name': 'A bag of kittens', 'count': 0, id: 4},
+            { 'name': 'A cow', 'count': 0, id: 5},
+            { 'name': 'A trolley', 'count': 0, id: 6},
+            { 'name': 'A pig', 'count': 0, id: 7},
+            { 'name': '5 people 100 years in the future', 'count': 0, id: 8},
+            { 'name': 'An unstoppable force', 'count': 0, id: 9},
+            { 'name': 'An immovable object', 'count': 0, id: 10},
+            { 'name': '3 newborns', 'count': 0, id: 11},
+            { 'name': '2 newborns', 'count': 0, id: 12},
+            { 'name': 'A pregnant woman', 'count': 0, id: 13},
+            { 'name': 'Baby Hitler', 'count': 0, id: 14},
+            { 'name': 'A loopdeloop', 'count': 0, id: 15},
+            { 'name': 'A monkey', 'count': 0, id: 16},
+            { 'name': 'A dog', 'count': 0, id: 17},
+            { 'name': 'A cat', 'count': 0, id: 18},
+            { 'name': 'A murderer', 'count': 0, id: 19},
+            { 'name': 'A phone', 'count': 0, id: 20},
+            { 'name': 'Hitler', 'count': 0, id: 21},
+            { 'name': 'Ghandi', 'count': 0, id: 22},
+            { 'name': 'A property developer', 'count': 0, id: 23},
         ]
     );
 
